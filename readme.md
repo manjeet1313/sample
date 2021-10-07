@@ -1,11 +1,2 @@
-C
-C
-D
-D
-B
-Di
-B
-B
-C
-C
-hello this is ju
+
+hello this is just a sample file. added to the exmp branch.
